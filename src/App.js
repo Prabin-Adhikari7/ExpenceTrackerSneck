@@ -15,7 +15,6 @@ function App() {
       <Balance />
       <IncomeExpence />
       <History />
-      <NewTranscation />
       <TransactionList/>
       </div>
     </GlobalProvider>
